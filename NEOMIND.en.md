@@ -2,23 +2,23 @@
 
 Languages
 <br>
-한국어 | [English](NEOMIND.en.md)
+[한국어](NEOMIND.md) | English
 
 </div>
 
 # NeoMind
 
-## [간단한 소개 - README.md](README.MD)
+## [Brief about me - README.md](README.MD)
 
 ## Github Stat
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=NeoMindStd)](https://github.com/anuraghazra/github-readme-stats)
 
-## 학력 및 경력 사항
+## Education and career
 
-## 기술 목록
+## Tech stack
 
-## 공개 리포지토리 소개
+## About public repositories
 - [BrainManager](https://github.com/NeoMindStd/BrainManager)
 - [CodingLife](https://github.com/NeoMindStd/CodingLife)
 - [DrawGraph](https://github.com/NeoMindStd/DrawGraph)
@@ -34,4 +34,4 @@ Languages
 - [SolveAMazeWithStack](https://github.com/NeoMindStd/SolveAMazeWithStack)
 - [WatingListWithLinkedQueue](https://github.com/NeoMindStd/WatingListWithLinkedQueue)
 
-## 기타 프로젝트 소개 (공개 리포지토리 제외)
+## About my projects (excluding public repositories)
