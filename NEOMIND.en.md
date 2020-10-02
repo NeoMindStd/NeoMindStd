@@ -8,7 +8,7 @@ Languages
 
 # NeoMind
 
-## [Brief about me - README.md](README.MD)
+## [Brief about me](README.md)
 
 ## Github Stat
 

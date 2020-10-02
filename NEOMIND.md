@@ -8,7 +8,7 @@ Languages
 
 # NeoMind
 
-## [간단한 소개 - README.md](README.MD)
+## [간단한 소개](README.md)
 
 ## Github Stat
 
