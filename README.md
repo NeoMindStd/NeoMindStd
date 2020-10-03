@@ -12,6 +12,8 @@
  - Android Application (Specifically, built with Flutter)
  - Full-Stack (LAMP, Spring boot)
 
+ ### [Details about me](NEOMIND.md)
+
 <div align=center>
 
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://neomindstd.github.io/)](https://neomindstd.github.io/) 
