@@ -16,6 +16,14 @@ Languages
 
 ## Education and career
 
+## Licenses
+
+| Name and Rating | Acquisition Date <br> (yyyy-MM-dd) | Certificate Issuer |
+|:----------------|:----------------------------------:|:-------------------|
+| Craftsman Information Processing | 2013-09-23 | HRD Korea |
+| Word Processor Specialist | 2017-07-21 | KCCI |
+| 삼성 SW 역량테스트 A | 2019-11-16 | SAMSUNG Electronics |
+
 ## Tech stack
 
 ## About public repositories
