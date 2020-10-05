@@ -4,6 +4,13 @@ Languages
 <br>
 한국어 | [English](NEOMIND.en.md)
 
+[![블로그](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://neomindstd.github.io/)](https://neomindstd.github.io/) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/우진-도-b137051b1/)](https://www.linkedin.com/in/우진-도-b137051b1/) 
+[![Stack Oveflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/12839756/neomind?tab=profile)](https://stackoverflow.com/users/12839756/neomind?tab=profile)
+[![Google Play](https://img.shields.io/badge/-Google%20Play-414141?style=flat-square&logo=Google%20Play&logoColor=white&link=https://play.google.com/store/apps/developer?id=NEO+MIND)](https://play.google.com/store/apps/developer?id=NEO+MIND)
+[![백준](https://img.shields.io/badge/-/<>BOJ-087DC6?style=flat-square&link=https://www.acmicpc.net/user/neomind75)](https://www.acmicpc.net/user/neomind75)
+[![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dwj0705@gmail.com)](mailto:dwj0705@gmail.com)
+
 </div>
 
 # NeoMind
