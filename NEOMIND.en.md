@@ -16,6 +16,26 @@ Languages
 
 ## Education and career
 
+### Education
+| Name | Gyeongsang National University |
+|:----:|:-------------------------------|
+| Department | Computer Science |
+| State | To graduate |
+| Attendance period <br> (yyyy-MM) | 2015-03 ~ 2021-02 |
+| Major / Total credits | 69 / 128 |
+| GPA | 4.16 / 4.5 |
+| Remarks | Leave of absence due to military service from 2016 to 2017 |
+
+### Military Service
+| Class | Army |
+|:-----:|:-----|
+| Unit | The 1st Air Defense Brigade JAOC of The Capital Defense Command |
+| Specialty | 방공작전 통제병 (Code: 141 104) |
+| State  | Expiration Term of Service |
+| Final rank | Sergeant |
+| Service period <br> (yyyy-MM) | 2016-02 ~ 2017-10 |
+| Remarks| [Recognition of experience in ICT (HRD Korea)](http://www.q-net.or.kr/crf006.do?id=crf00641&gSite=Q&gId=) <br> [Development '방공무기 교전통제 프로그램' ](https://neomindstd.github.io/project/aa-control/) |
+
 ## Licenses
 
 | Name and Rating | Acquisition Date <br> (yyyy-MM-dd) | Certificate Issuer |
