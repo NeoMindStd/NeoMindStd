@@ -17,7 +17,7 @@ Languages
 
 ## [Brief about me](README.md)
 
-## Github Stat
+## Github Stats
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=NeoMindStd)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -55,14 +55,18 @@ Languages
 
 ## About public repositories
 - [BrainManager](https://github.com/NeoMindStd/BrainManager)
+    + [Description](https://neomindstd.github.io/project/brain-manager/)
 - [CodingLife](https://github.com/NeoMindStd/CodingLife)
 - [DrawGraph](https://github.com/NeoMindStd/DrawGraph)
 - [GNU-VR](https://github.com/NeoMindStd/GNU-VR)
+    + [Description](https://neomindstd.github.io/project/vr-shooting/)
 - [GithubUserList](https://github.com/NeoMindStd/GithubUserList)
 - [HanjaDB](https://github.com/NeoMindStd/HanjaDB)
 - [HoliNoti](https://github.com/NeoMindStd/HoliNoti)
+    + [Description](https://neomindstd.github.io/project/holinoti/)
 - [NeoMindStd](https://github.com/NeoMindStd/NeoMindStd)
 - [Pickey](https://github.com/NeoMindStd/Pickey)
+    + [Description](https://neomindstd.github.io/project/pickey/)
 - [PostfixCalculator](https://github.com/NeoMindStd/PostfixCalculator)
 - [PrimAlgorithm](https://github.com/NeoMindStd/PrimAlgorithm)
 - [QMMethod](https://github.com/NeoMindStd/QMMethod)
@@ -70,3 +74,8 @@ Languages
 - [WatingListWithLinkedQueue](https://github.com/NeoMindStd/WatingListWithLinkedQueue)
 
 ## About my projects (excluding public repositories)
+- [Siren Soundboard](https://neomindstd.github.io/project/siren-soundboard/)
+- [Horror World](https://neomindstd.github.io/project/horror-world/)
+- [방공무기 교전통제 프로그램](https://neomindstd.github.io/project/aa-control/)
+- [Edu Motion](https://neomindstd.github.io/project/edu-motion/)
+- [Coupon Manager](https://neomindstd.github.io/project/coupon-manager/)
