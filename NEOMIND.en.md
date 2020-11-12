@@ -50,6 +50,7 @@ Languages
 | Craftsman Information Processing | 2013-09-23 | HRD Korea |
 | Word Processor Specialist | 2017-07-21 | KCCI |
 | 삼성 SW 역량테스트 A | 2019-11-16 | SAMSUNG Electronics |
+| Engineer Information Processing | 2020-11-12 | HRD Korea |
 
 ## Tech stack
 
