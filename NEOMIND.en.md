@@ -43,6 +43,11 @@ Languages
 | Service period <br> (yyyy-MM) | 2016-02 ~ 2017-10 |
 | Remarks| [Recognition of experience in ICT (HRD Korea)](http://www.q-net.or.kr/crf006.do?id=crf00641&gSite=Q&gId=) <br> [Development '방공무기 교전통제 프로그램' ](https://neomindstd.github.io/project/aa-control/) |
 
+### NAVER Corp.
+| Position | Developer |
+|:----:|:-----|
+| Working Period <br> (yyyy-MM) | 2020-12 ~ Now |
+
 ## Tests and Licenses
 
 | Name and Rating | Acquisition Date <br> (yyyy-MM-dd) | Certificate Issuer |

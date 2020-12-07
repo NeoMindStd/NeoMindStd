@@ -43,6 +43,11 @@ Languages
 | 복무 기간 <br> (yyyy-MM) | 2016-02 ~ 2017-10 |
 | 비고 | [정보통신 분야 경력 인정 (HRDK 기준)](http://www.q-net.or.kr/crf006.do?id=crf00641&gSite=Q&gId=) <br> ['방공무기 교전통제 프로그램' 개발](https://neomindstd.github.io/project/aa-control/) |
 
+### 네이버
+| 직무 | 개발 |
+|:----:|:-----|
+| 근무 기간 <br> (yyyy-MM) | 2020-12 ~ Now |
+
 ## 시험 및 자격 사항
 
 | 이름 및 등급 | 취득일 <br> (yyyy-MM-dd) | 발급처 / 인증기관 |
